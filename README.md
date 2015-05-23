@@ -2,5 +2,5 @@
 Made this game on Unity3D.
 I built it in Unity Cloud Build.
 To play the game, the link is below.
-https://build.cloud.unity3d.com/distro/install?id=bJ7oFyVjkg
+https://build.cloud.unity3d.com/distro/install?id=b11zb8VEll
 -Have Fun :)
